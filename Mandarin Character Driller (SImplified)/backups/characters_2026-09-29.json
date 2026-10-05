@@ -1,0 +1,1037 @@
+{
+  "你": {
+    "pinyin": "ni",
+    "tone": 3,
+    "meaning": "you",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "好": {
+    "pinyin": "hao",
+    "tone": 3,
+    "meaning": "good",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 0,
+    "streak": 3
+  },
+  "号": {
+    "pinyin": "hao",
+    "tone": 4,
+    "meaning": "number / designation",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 0,
+    "streak": 3
+  },
+  "请": {
+    "pinyin": "qing",
+    "tone": 3,
+    "meaning": "please",
+    "strength": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "streak": 1
+  },
+  "问": {
+    "pinyin": "wen",
+    "tone": 4,
+    "meaning": "to ask",
+    "strength": 2,
+    "correct": 4,
+    "incorrect": 3,
+    "streak": 2
+  },
+  "贵": {
+    "pinyin": "gui",
+    "tone": 4,
+    "meaning": "expensive / honorable",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "姓": {
+    "pinyin": "xing",
+    "tone": 4,
+    "meaning": "surname / family name",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 0,
+    "streak": 3
+  },
+  "我": {
+    "pinyin": "wo",
+    "tone": 3,
+    "meaning": "I / me",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "呢": {
+    "pinyin": "ne",
+    "tone": 0,
+    "meaning": "question / continuation particle",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 1,
+    "streak": 4
+  },
+  "小": {
+    "pinyin": "xiao",
+    "tone": 3,
+    "meaning": "small / little",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "姐": {
+    "pinyin": "jie",
+    "tone": 3,
+    "meaning": "older sister",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 1,
+    "streak": 2
+  },
+  "叫": {
+    "pinyin": "jiao",
+    "tone": 4,
+    "meaning": "to be called",
+    "strength": 5,
+    "correct": 5,
+    "incorrect": 0,
+    "streak": 5
+  },
+  "什": {
+    "pinyin": "shen",
+    "tone": 2,
+    "meaning": "what (in 什么)",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "么": {
+    "pinyin": "me",
+    "tone": 0,
+    "meaning": "what (in 什么)",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 1,
+    "streak": 3
+  },
+  "名": {
+    "pinyin": "ming",
+    "tone": 2,
+    "meaning": "name",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 1,
+    "streak": 2
+  },
+  "字": {
+    "pinyin": "zi",
+    "tone": 0,
+    "meaning": "character / written name",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "先": {
+    "pinyin": "xian",
+    "tone": 1,
+    "meaning": "first / former (in 先生)",
+    "strength": 8,
+    "correct": 8,
+    "incorrect": 0,
+    "streak": 8
+  },
+  "生": {
+    "pinyin": "sheng",
+    "tone": 1,
+    "meaning": "student / life",
+    "strength": 5,
+    "correct": 6,
+    "incorrect": 1,
+    "streak": 5
+  },
+  "李": {
+    "pinyin": "li",
+    "tone": 3,
+    "meaning": "Li (surname)",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "友": {
+    "pinyin": "you",
+    "tone": 3,
+    "meaning": "friend",
+    "strength": 1,
+    "correct": 4,
+    "incorrect": 3,
+    "streak": 1
+  },
+  "王": {
+    "pinyin": "wang",
+    "tone": 2,
+    "meaning": "Wang (surname)",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "朋": {
+    "pinyin": "peng",
+    "tone": 2,
+    "meaning": "friend (in 朋友)",
+    "strength": 7,
+    "correct": 7,
+    "incorrect": 0,
+    "streak": 7
+  },
+  "是": {
+    "pinyin": "shi",
+    "tone": 4,
+    "meaning": "to be",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 0,
+    "streak": 3
+  },
+  "老": {
+    "pinyin": "lao",
+    "tone": 3,
+    "meaning": "old",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 0,
+    "streak": 3
+  },
+  "师": {
+    "pinyin": "shi",
+    "tone": 1,
+    "meaning": "teacher",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 0,
+    "streak": 3
+  },
+  "吗": {
+    "pinyin": "ma",
+    "tone": 0,
+    "meaning": "question particle",
+    "strength": 5,
+    "correct": 5,
+    "incorrect": 0,
+    "streak": 5
+  },
+  "不": {
+    "pinyin": "bu",
+    "tone": 4,
+    "meaning": "not / no",
+    "strength": 5,
+    "correct": 5,
+    "incorrect": 0,
+    "streak": 5
+  },
+  "学": {
+    "pinyin": "xue",
+    "tone": 2,
+    "meaning": "to study / learn",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 0,
+    "streak": 3
+  },
+  "也": {
+    "pinyin": "ye",
+    "tone": 3,
+    "meaning": "also / too",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 0,
+    "streak": 3
+  },
+  "人": {
+    "pinyin": "ren",
+    "tone": 2,
+    "meaning": "person / people",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "中": {
+    "pinyin": "zhong",
+    "tone": 1,
+    "meaning": "middle / China (in 中国)",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "国": {
+    "pinyin": "guo",
+    "tone": 2,
+    "meaning": "country",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 1,
+    "streak": 4
+  },
+  "北": {
+    "pinyin": "bei",
+    "tone": 3,
+    "meaning": "north",
+    "strength": 3,
+    "correct": 4,
+    "incorrect": 1,
+    "streak": 3
+  },
+  "京": {
+    "pinyin": "jing",
+    "tone": 1,
+    "meaning": "capital (in 北京)",
+    "strength": 5,
+    "correct": 5,
+    "incorrect": 0,
+    "streak": 5
+  },
+  "美": {
+    "pinyin": "mei",
+    "tone": 3,
+    "meaning": "beautiful / America (in 美国)",
+    "strength": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "streak": 1
+  },
+  "纽": {
+    "pinyin": "niu",
+    "tone": 3,
+    "meaning": "New York (in 纽约)",
+    "strength": 1,
+    "correct": 3,
+    "incorrect": 1,
+    "streak": 1
+  },
+  "约": {
+    "pinyin": "yue",
+    "tone": 1,
+    "meaning": "New York (in 纽约)",
+    "strength": 2,
+    "correct": 4,
+    "incorrect": 1,
+    "streak": 2
+  },
+  "罗": {
+    "pinyin": "luo",
+    "tone": 2,
+    "meaning": "net / to catch with a net; surname",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 1,
+    "streak": 2
+  },
+  "维": {
+    "pinyin": "wei",
+    "tone": 2,
+    "meaning": "to maintain / preserve",
+    "strength": 3,
+    "correct": 4,
+    "incorrect": 2,
+    "streak": 3
+  },
+  "康": {
+    "pinyin": "kang",
+    "tone": 1,
+    "meaning": "health / well-being; surname",
+    "strength": 7,
+    "correct": 7,
+    "incorrect": 0,
+    "streak": 7
+  },
+  "那": {
+    "pinyin": "na",
+    "tone": 4,
+    "meaning": "that / that one",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 3,
+    "streak": 0
+  },
+  "的": {
+    "pinyin": "de",
+    "tone": 0,
+    "meaning": "possessive / descriptive particle",
+    "strength": 1,
+    "correct": 2,
+    "incorrect": 1,
+    "streak": 1
+  },
+  "照": {
+    "pinyin": "zhao",
+    "tone": 4,
+    "meaning": "to shine / according to / photograph",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "片": {
+    "pinyin": "pian",
+    "tone": 4,
+    "meaning": "piece / slice; in 照片, photograph",
+    "strength": 6,
+    "correct": 6,
+    "incorrect": 0,
+    "streak": 6
+  },
+  "这": {
+    "pinyin": "zhe",
+    "tone": 4,
+    "meaning": "this / this one",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "爸": {
+    "pinyin": "ba",
+    "tone": 4,
+    "meaning": "dad / father",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "妈": {
+    "pinyin": "ma",
+    "tone": 1,
+    "meaning": "mom / mother",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "个": {
+    "pinyin": "ge",
+    "tone": 4,
+    "meaning": "general measure word",
+    "strength": 3,
+    "correct": 4,
+    "incorrect": 1,
+    "streak": 3
+  },
+  "女": {
+    "pinyin": "nv",
+    "tone": 3,
+    "meaning": "female / woman",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "还": {
+    "pinyin": "hai",
+    "tone": 2,
+    "meaning": "still / also",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 1,
+    "streak": 3
+  },
+  "子": {
+    "pinyin": "zi",
+    "tone": 0,
+    "meaning": "child; suffix (in 孩子)",
+    "strength": 6,
+    "correct": 6,
+    "incorrect": 2,
+    "streak": 6
+  },
+  "谁": {
+    "pinyin": "shei",
+    "tone": 2,
+    "meaning": "who, whom",
+    "strength": 0,
+    "correct": 2,
+    "incorrect": 2,
+    "streak": 0
+  },
+  "他": {
+    "pinyin": "ta",
+    "tone": 1,
+    "meaning": "he / him",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "她": {
+    "pinyin": "ta",
+    "tone": 1,
+    "meaning": "she / her",
+    "strength": 5,
+    "correct": 5,
+    "incorrect": 0,
+    "streak": 5
+  },
+  "男": {
+    "pinyin": "nan",
+    "tone": 2,
+    "meaning": "male / man",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "第": {
+    "pinyin": "di",
+    "tone": 4,
+    "meaning": "ordinal prefix (e.g. first, second)",
+    "strength": 1,
+    "correct": 1,
+    "incorrect": 1,
+    "streak": 1
+  },
+  "大": {
+    "pinyin": "da",
+    "tone": 4,
+    "meaning": "big / large",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "儿": {
+    "pinyin": "er",
+    "tone": 2,
+    "meaning": "son / child; diminutive suffix",
+    "strength": 5,
+    "correct": 5,
+    "incorrect": 0,
+    "streak": 5
+  },
+  "有": {
+    "pinyin": "you",
+    "tone": 3,
+    "meaning": "to have / there is",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "没": {
+    "pinyin": "mei",
+    "tone": 2,
+    "meaning": "not have / did not",
+    "strength": 6,
+    "correct": 6,
+    "incorrect": 0,
+    "streak": 6
+  },
+  "高": {
+    "pinyin": "gao",
+    "tone": 1,
+    "meaning": "high / tall",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 2,
+    "streak": 0
+  },
+  "文": {
+    "pinyin": "wen",
+    "tone": 2,
+    "meaning": "language / writing / literature",
+    "strength": 6,
+    "correct": 7,
+    "incorrect": 2,
+    "streak": 6
+  },
+  "家": {
+    "pinyin": "jia",
+    "tone": 1,
+    "meaning": "home / family",
+    "strength": 5,
+    "correct": 5,
+    "incorrect": 0,
+    "streak": 5
+  },
+  "几": {
+    "pinyin": "ji",
+    "tone": 3,
+    "meaning": "how many / several",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "口": {
+    "pinyin": "kou",
+    "tone": 3,
+    "meaning": "mouth",
+    "strength": 5,
+    "correct": 5,
+    "incorrect": 0,
+    "streak": 5
+  },
+  "哥": {
+    "pinyin": "ge",
+    "tone": 1,
+    "meaning": "older brother",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 0,
+    "streak": 3
+  },
+  "两": {
+    "pinyin": "liang",
+    "tone": 3,
+    "meaning": "two",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 0,
+    "streak": 3
+  },
+  "妹": {
+    "pinyin": "mei",
+    "tone": 4,
+    "meaning": "younger sister",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "和": {
+    "pinyin": "he",
+    "tone": 2,
+    "meaning": "and / with",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "做": {
+    "pinyin": "zuo",
+    "tone": 4,
+    "meaning": "to do / to make",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "工": {
+    "pinyin": "gong",
+    "tone": 1,
+    "meaning": "work / labor",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "作": {
+    "pinyin": "zuo",
+    "tone": 4,
+    "meaning": "work / to do / to make",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "律": {
+    "pinyin": "lv",
+    "tone": 4,
+    "meaning": "green",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 1,
+    "streak": 3
+  },
+  "英": {
+    "pinyin": "ying",
+    "tone": 1,
+    "meaning": "England / Britain; excellent",
+    "strength": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "streak": 4
+  },
+  "都": {
+    "pinyin": "dou",
+    "tone": 1,
+    "meaning": "all / both",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 0,
+    "streak": 3
+  },
+  "一": {
+    "pinyin": "yi",
+    "tone": 1,
+    "meaning": "one",
+    "strength": 6,
+    "correct": 6,
+    "incorrect": 0,
+    "streak": 6
+  },
+  "白": {
+    "pinyin": "bai",
+    "tone": 2,
+    "meaning": "white",
+    "strength": 5,
+    "correct": 5,
+    "incorrect": 1,
+    "streak": 5
+  },
+  "爱": {
+    "pinyin": "ai",
+    "tone": 4,
+    "meaning": "to love / love",
+    "strength": 5,
+    "correct": 5,
+    "incorrect": 0,
+    "streak": 5
+  },
+  "零": {
+    "pinyin": "ling",
+    "tone": 2,
+    "meaning": "0",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 2,
+    "streak": 2
+  },
+  "二": {
+    "pinyin": "er",
+    "tone": 4,
+    "meaning": "2",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "三": {
+    "pinyin": "san",
+    "tone": 1,
+    "meaning": "3",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "四": {
+    "pinyin": "si",
+    "tone": 4,
+    "meaning": "4",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "五": {
+    "pinyin": "wu",
+    "tone": 3,
+    "meaning": "5",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "六": {
+    "pinyin": "liu",
+    "tone": 4,
+    "meaning": "6",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 1,
+    "streak": 0
+  },
+  "七": {
+    "pinyin": "qi",
+    "tone": 1,
+    "meaning": "7",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "八": {
+    "pinyin": "ba",
+    "tone": 1,
+    "meaning": "8",
+    "strength": 3,
+    "correct": 3,
+    "incorrect": 0,
+    "streak": 3
+  },
+  "九": {
+    "pinyin": "jiu",
+    "tone": 3,
+    "meaning": "9",
+    "strength": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "streak": 1
+  },
+  "十": {
+    "pinyin": "shi",
+    "tone": 2,
+    "meaning": "10",
+    "strength": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "streak": 1
+  },
+  "月": {
+    "pinyin": "yue",
+    "tone": 4,
+    "meaning": "month / moon",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 1,
+    "streak": 0
+  },
+  "星": {
+    "pinyin": "xing",
+    "tone": 1,
+    "meaning": "star",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "期": {
+    "pinyin": "qi",
+    "tone": 1,
+    "meaning": "period (of time)",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "天": {
+    "pinyin": "tian",
+    "tone": 1,
+    "meaning": "day / sky",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "日": {
+    "pinyin": "ri",
+    "tone": 4,
+    "meaning": "day / sun",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "今": {
+    "pinyin": "jin",
+    "tone": 1,
+    "meaning": "today / now",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "年": {
+    "pinyin": "nian",
+    "tone": 2,
+    "meaning": "year",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "多": {
+    "pinyin": "duo",
+    "tone": 1,
+    "meaning": "many / much",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "岁": {
+    "pinyin": "sui",
+    "tone": 4,
+    "meaning": "years old",
+    "strength": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "streak": 1
+  },
+  "吃": {
+    "pinyin": "chi",
+    "tone": 1,
+    "meaning": "to eat",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "饭": {
+    "pinyin": "fan",
+    "tone": 4,
+    "meaning": "cooked rice / meal",
+    "strength": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "streak": 1
+  },
+  "怎": {
+    "pinyin": "zen",
+    "tone": 3,
+    "meaning": "how",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "样": {
+    "pinyin": "yang",
+    "tone": 4,
+    "meaning": "kind / way / appearance",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "太": {
+    "pinyin": "tai",
+    "tone": 4,
+    "meaning": "too / extremely",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "了": {
+    "pinyin": "le",
+    "tone": 0,
+    "meaning": "particle for completed action / change of state",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "谢": {
+    "pinyin": "xie",
+    "tone": 4,
+    "meaning": "to thank",
+    "strength": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "streak": 1
+  },
+  "喜": {
+    "pinyin": "xi",
+    "tone": 3,
+    "meaning": "to like / joy",
+    "strength": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "streak": 1
+  },
+  "欢": {
+    "pinyin": "huan",
+    "tone": 0,
+    "meaning": "joyful (in 喜欢, to like)",
+    "strength": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "streak": 1
+  },
+  "菜": {
+    "pinyin": "cai",
+    "tone": 4,
+    "meaning": "dish / vegetable",
+    "strength": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "streak": 1
+  },
+  "可": {
+    "pinyin": "ke",
+    "tone": 3,
+    "meaning": "can / but (in 可是)",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "们": {
+    "pinyin": "men",
+    "tone": 0,
+    "meaning": "plural marker for people",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "点": {
+    "pinyin": "dian",
+    "tone": 3,
+    "meaning": "o'clock / point / a little",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "半": {
+    "pinyin": "ban",
+    "tone": 4,
+    "meaning": "half",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "晚": {
+    "pinyin": "wan",
+    "tone": 3,
+    "meaning": "evening / late",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "上": {
+    "pinyin": "shang",
+    "tone": 0,
+    "meaning": "up / on / above (neutral tone in 晚上)",
+    "strength": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "streak": 0
+  },
+  "见": {
+    "pinyin": "jian",
+    "tone": 4,
+    "meaning": "to see / to meet",
+    "strength": 2,
+    "correct": 2,
+    "incorrect": 0,
+    "streak": 2
+  },
+  "再": {
+    "pinyin": "zai",
+    "tone": 4,
+    "meaning": "again",
+    "strength": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "streak": 1
+  }
+}
