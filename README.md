@@ -61,25 +61,25 @@ Parameters (walk length, window, entry threshold, stop loss, cooldown, and so on
 
 ## Chess Opening File Generator
 
-[2-3 sentences: what it generates, what input it takes, and what format the output is in.]
 
-**Tools:** [e.g., Python, python-chess]
+
+**Tools:** Python, python-chess
 **Run it:** `[command]`
 
 ---
 
 ## DataDorm
 
-[2-3 sentences: the problem it solves, who it is for, and what data it uses.]
 
-**Tools:** [...]
+
+**Tools:** Streamlit
 **Run it:** `[command]`
 
 ---
 
 ## Mandarin Character Driller (Simplified)
 
-[2-3 sentences: how it quizzes characters, what it tracks, and how you use it.]
+
 
 **Tools:** [...]
 **Run it:** `[command]`
@@ -88,7 +88,7 @@ Parameters (walk length, window, entry threshold, stop loss, cooldown, and so on
 
 ## MatchMyApp
 
-[2-3 sentences: what it matches, to what, and how.]
+
 
 **Tools:** [...]
 **Run it:** `[command]`
